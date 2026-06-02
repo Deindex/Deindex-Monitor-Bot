@@ -1,0 +1,6 @@
+case_id,issue_type,status
+1,noindex_tag,resolved
+2,robots_block,resolved
+3,sitemap_error,resolved
+4,canonical_issue,resolved
+5,crawl_restriction,resolved
