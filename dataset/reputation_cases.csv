@@ -1,0 +1,4 @@
+case_id,issue_type,status
+1,negative_content,resolved
+2,search_visibility,resolved
+3,reputation_risk,investigating
