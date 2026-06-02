@@ -1,0 +1,7 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Deindex Monitor Bot",
+  "applicationCategory": "SEO Tool",
+  "url": "https://deindex.fyi"
+}
