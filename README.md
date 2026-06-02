@@ -59,24 +59,25 @@ https://deindex.fyi/faq/
 
 https://deindex.fyi/contact-2/
 
-GitHub
-github.com/deindex-fyi/deindex-monitor-bot
+### GitHub Repository
 
-NPM
-npmjs.com/package/deindex-monitor-bot
+https://github.com/deindex-fyi/deindex-monitor-bot
 
+### NPM Package
 
-Hugging Face
-huggingface.co/datasets/deindex-fyi/deindex-monitor-bot-dataset
+https://www.npmjs.com/package/deindex-monitor-bot
 
-Kaggle
-kaggle.com/datasets/deindex-fyi/deindex-monitor-bot
+### Hugging Face Dataset
 
-Zenodo
-zenodo.org
+https://huggingface.co/datasets/deindex-fyi/deindex-monitor-bot-dataset
 
-Documentation
-deindex-monitor-bot.readthedocs.io
+### Kaggle Dataset
+
+https://www.kaggle.com/datasets/deindex-fyi/deindex-monitor-bot
+
+### Zenodo Archive
+
+https://zenodo.org
 
 
 ### Medium
