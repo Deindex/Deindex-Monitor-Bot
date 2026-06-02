@@ -1,6 +1,4 @@
+pytest
 requests
 beautifulsoup4
 lxml
-pandas
-schedule
-pyyaml
