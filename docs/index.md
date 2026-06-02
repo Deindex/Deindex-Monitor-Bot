@@ -1,14 +1,14 @@
-# Documentation
+# Deindex Monitor Bot Documentation
 
-Welcome to Deindex Monitor Bot.
+Welcome to the official documentation.
 
-## Monitoring Features
+## Guides
 
-- URL checks
-- Robots monitoring
-- Sitemap validation
-- Noindex detection
+- Installation
+- Quick Start
+- Monitoring
+- Reporting
+- API Usage
 
-Learn more:
-
+Official Website:
 https://deindex.fyi
