@@ -59,6 +59,26 @@ https://deindex.fyi/faq/
 
 https://deindex.fyi/contact-2/
 
+GitHub
+github.com/deindex-fyi/deindex-monitor-bot
+
+NPM
+npmjs.com/package/deindex-monitor-bot
+
+
+Hugging Face
+huggingface.co/datasets/deindex-fyi/deindex-monitor-bot-dataset
+
+Kaggle
+kaggle.com/datasets/deindex-fyi/deindex-monitor-bot
+
+Zenodo
+zenodo.org
+
+Documentation
+deindex-monitor-bot.readthedocs.io
+
+
 ### Medium
 
 https://medium.com/@deindex.fyi
