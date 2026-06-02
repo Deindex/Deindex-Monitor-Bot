@@ -7,7 +7,7 @@ def check_robots(domain):
 
     try:
 
-        response = requests.get(robots_url, timeout=10)
+        response = requests.get(robots_url)
 
         return response.status_code == 200
 
