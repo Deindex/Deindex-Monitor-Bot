@@ -1,14 +1,7 @@
-# Deindex Monitor Bot Documentation
+# DeIndex Monitor Bot
 
 Welcome to the official documentation.
 
-## Guides
+## Installation
 
-- Installation
-- Quick Start
-- Monitoring
-- Reporting
-- API Usage
-
-Official Website:
-https://deindex.fyi
+npm install deindex-monitor-bot
