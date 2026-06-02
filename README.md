@@ -1,23 +1,26 @@
 # Deindex Monitor Bot
 
-An open-source monitoring tool that helps website owners detect indexing issues before they impact search visibility and organic search performance.
+Monitor websites for deindexing risks, robots.txt issues, noindex tags, sitemap failures, crawl restrictions, and search reputation signals.
 
-## Features
+## Overview
 
-* Robots.txt monitoring
-* Noindex tag detection
-* Sitemap validation
-* Canonical URL checks
-* Search reputation monitoring
-* Email alerts and notifications
-* Early warning system for indexing problems
-* Website health monitoring
+Deindex Monitor Bot is an open-source monitoring platform designed for website owners, SEO professionals, agencies, and businesses.
 
-## Why This Project?
+The project helps detect technical SEO issues that may impact indexing, crawling, search visibility, and online reputation.
 
-Websites often lose rankings and traffic due to accidental SEO mistakes, indexing errors, technical changes, or search engine visibility issues.
+### Features
 
-Deindex Monitor Bot helps website owners, SEO professionals, agencies, and businesses identify these problems early before they negatively impact search performance.
+* URL Monitoring
+* Robots.txt Validation
+* Sitemap Monitoring
+* Noindex Detection
+* Canonical Validation
+* Crawl Diagnostics
+* JSON Reporting
+* CSV Reporting
+* Email Alerts
+* Slack Alerts
+* Discord Alerts
 
 ---
 
@@ -71,15 +74,15 @@ npx deindex-monitor-bot https://example.com
 
 ## Monitoring Capabilities
 
-| Check           | Description                   |
-| --------------- | ----------------------------- |
-| URL Status      | Verify page availability      |
-| Robots.txt      | Detect crawl restrictions     |
-| Sitemap         | Validate sitemap availability |
-| Noindex         | Detect indexing blocks        |
-| Canonical       | Verify canonical tags         |
-| Crawl Response  | Analyze HTTP responses        |
-| Reputation Risk | Identify visibility risks     |
+| Check           | Description                     |
+| --------------- | ------------------------------- |
+| URL Status      | Verify page availability        |
+| Robots.txt      | Detect crawl restrictions       |
+| Sitemap         | Validate sitemap accessibility  |
+| Noindex         | Detect indexing restrictions    |
+| Canonical       | Verify canonical implementation |
+| Crawl Response  | Analyze HTTP responses          |
+| Reputation Risk | Evaluate visibility risks       |
 
 ---
 
@@ -87,7 +90,7 @@ npx deindex-monitor-bot https://example.com
 
 ```text
 deindex-monitor-bot/
-│
+
 ├── .github/
 │   └── workflows/
 │       ├── tests.yml
@@ -106,7 +109,8 @@ deindex-monitor-bot/
 │   ├── deindexing-guide.md
 │   ├── search-reputation-guide.md
 │   ├── content-removal-guide.md
-│   └── recovery-guide.md
+│   ├── recovery-guide.md
+│   └── faq.md
 │
 ├── huggingface/
 │   └── README.md
@@ -138,24 +142,38 @@ deindex-monitor-bot/
 │   └── utils/
 │       └── logger.py
 │
-└── tests/
-    ├── test_index_checker.py
-    └── test_robots_checker.py
+├── tests/
+│   ├── test_index_checker.py
+│   └── test_robots_checker.py
+│
+├── examples/
+│
+├── README.md
+├── LICENSE
+├── CONTRIBUTING.md
+├── CHANGELOG.md
+├── ROADMAP.md
+├── SECURITY.md
+├── requirements.txt
+├── pyproject.toml
+├── package.json
+├── mkdocs.yml
+└── .readthedocs.yaml
 ```
 
 ---
 
 ## Datasets
 
-### Hugging Face
+### Hugging Face Dataset
 
 https://huggingface.co/datasets/deindex-fyi/deindex-monitor-bot-dataset
 
-### Kaggle
+### Kaggle Dataset
 
 https://kaggle.com/datasets/deindex-fyi/deindex-monitor-bot
 
-### Zenodo
+### Zenodo Archive
 
 https://zenodo.org
 
@@ -163,7 +181,7 @@ https://zenodo.org
 
 ## Documentation
 
-### ReadTheDocs
+ReadTheDocs:
 
 https://deindex-monitor-bot.readthedocs.io
 
@@ -207,15 +225,12 @@ https://quora.com/profile/Deindex-Fyi
 
 ## Learn More
 
-Explore additional resources, guides, and industry insights through our website and community channels.
-
-Stay informed about:
+Explore additional resources, guides, and industry insights covering:
 
 * Search indexing
-* Deindexing issues
+* Deindexing recovery
 * Search reputation management
 * Content removal strategies
-* Website monitoring best practices
 * Technical SEO troubleshooting
 * Search visibility recovery
 
@@ -223,23 +238,18 @@ Stay informed about:
 
 ## Contributing
 
-Contributions, feature requests, bug reports, and pull requests are welcome.
+Contributions, bug reports, feature requests, and pull requests are welcome.
 
-Please review the contribution guidelines before submitting changes.
+Please review:
 
-### Ways to Contribute
-
-* Report bugs
-* Suggest new features
-* Improve documentation
-* Submit pull requests
-* Share datasets and case studies
-* Help improve monitoring checks
+* CONTRIBUTING.md
+* SECURITY.md
+* CODE_OF_CONDUCT.md
 
 ---
 
 ## License
 
-This project is released under the MIT License.
+MIT License
 
-See the `LICENSE` file for additional details.
+See the LICENSE file for details.
