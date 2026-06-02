@@ -215,7 +215,7 @@ https://medium.com/@deindex.fyi
 
 ### SlideShare
 
-https://slideshare.net/deindexfyi
+https://www.slideshare.net/slideshow/deindex-fyi-comprehensive-guide-to-legal-privacy-removal-for-digital-protection/287543687
 
 ### Quora
 
