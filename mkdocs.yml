@@ -2,3 +2,8 @@ site_name: Deindex Monitor Bot
 
 nav:
   - Home: index.md
+  - Deindexing Guide: deindexing-guide.md
+  - Search Reputation Guide: search-reputation-guide.md
+  - Content Removal Guide: content-removal-guide.md
+  - Recovery Guide: recovery-guide.md
+  - FAQ: faq.md
