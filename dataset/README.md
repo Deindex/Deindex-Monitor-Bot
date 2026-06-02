@@ -1,3 +1,9 @@
-# Deindex Dataset
+# Deindex Monitor Dataset
 
-This folder contains sample datasets related to indexing issues, crawl restrictions, and search visibility monitoring.
+Datasets related to:
+
+- Deindexing
+- Search Reputation
+- Robots Issues
+- Sitemap Problems
+- Crawl Restrictions
