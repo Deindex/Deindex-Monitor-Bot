@@ -1,0 +1,10 @@
+{
+  "name": "deindex-monitor-bot",
+  "version": "0.1.0",
+  "description": "Website deindex monitoring bot",
+  "homepage": "https://deindex.fyi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deindex-fyi/deindex-monitor-bot"
+  }
+}
