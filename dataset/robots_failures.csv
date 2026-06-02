@@ -1,0 +1,4 @@
+id,issue
+1,robots_txt_missing
+2,robots_txt_blocking_pages
+3,robots_txt_syntax_error
