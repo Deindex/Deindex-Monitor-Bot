@@ -19,10 +19,12 @@ jobs:
         run: |
           echo "Last heartbeat: $(date -u)" > status.txt
 
-      - name: Commit changes
+      - name: Commit heartbeat
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
+
           git add status.txt
           git commit -m "chore: heartbeat update" || exit 0
+
           git push
