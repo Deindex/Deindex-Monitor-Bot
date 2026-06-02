@@ -1,0 +1,9 @@
+[project]
+name = "deindex-monitor-bot"
+version = "0.1.0"
+description = "Website deindexing and reputation monitoring bot"
+requires-python = ">=3.10"
+
+authors = [
+    {name = "Deindex FYI"}
+]
